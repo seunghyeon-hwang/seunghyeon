@@ -3,45 +3,46 @@
 ## About Me
 
 안녕하세요.  
-Python과 인공지능 기술을 기반으로 데이터를 분석하고, 실제 문제를 해결하는 과정에 관심을 가지고 성장하고 있는 예비 개발자 황승현입니다.
-
-전자공학을 전공하며 문제를 논리적으로 분석하는 사고를 익혔고, 이후 프로그래밍과 AI 분야에 흥미를 느껴 Python, 데이터 분석, 머신러닝, 딥러닝을 중심으로 역량을 쌓고 있습니다.
-
-특히 단순히 기술을 학습하는 것에 그치지 않고, 직접 데이터를 수집하고 모델을 구현하여 하나의 결과물로 완성하는 경험을 중요하게 생각합니다.
+Python을 기반으로 데이터를 수집·전처리하고, 머신러닝 모델을 활용해 실제 문제를 해결하는 데 관심이 있는 황승현입니다.
 
 ---
 
-## Technologies 
+## Technologies
 
-- Machine Learning
-- Deep Learning
-- Data Analysis
-- Data Preprocessing
-- Regression Modeling
-- Web Crawling
-- Streamlit App Development
-- Git / GitHub
-- Python-based Problem Solving
-
----
-
-## Main Programming Language
-
+### Language
 - Python
 
+### Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+
+### Machine Learning / Deep Learning
+- Scikit-learn
+- TensorFlow / Keras
+- Random Forest
+- Gradient Boosting
+- Ridge Regression
+- K-Nearest Neighbors
+
+### Web & Tools
+- Streamlit
+- Git / GitHub
+- Web Crawling
+
 ---
 
-## Educations
+## Education
 
-- 아주대학교 전자공학 전공
-- Python 및 데이터 분석 학습
-- 머신러닝 / 딥러닝 모델링 학습
+- 아주대학교 전자공학과
+- Python 기반 데이터 분석 및 머신러닝 학습
+- TensorFlow / Keras 기반 딥러닝 모델링 학습
 
 ---
 
 ## Awards and Certifications
 
-- AICE Associate 자격증 취득
+- AICE Associate, 2026
 
 ---
 
@@ -49,29 +50,19 @@ Python과 인공지능 기술을 기반으로 데이터를 분석하고, 실제 
 
 ### 축구 유니폼 가격 예측 모델
 
-➡ 축구 유니폼 중고 거래 데이터를 기반으로 상품 조건에 따른 가격을 예측하는 개인 프로젝트
+축구 유니폼 중고 거래 데이터를 수집하여 상품 조건에 따른 예상 거래 가격을 예측하는 머신러닝 기반 웹 애플리케이션입니다.
 
-➡ 웹 크롤링을 통해 거래 데이터를 수집하고, 시즌·사이즈·상태·브랜드·판매 여부 등의 특성을 활용하여 가격 예측 모델을 구축
+#### 주요 기능
+- 웹 크롤링을 통한 유니폼 거래 데이터 수집
+- 시즌, 사이즈, 상태, 마킹 여부, 패치 여부, 거래 경과일 기반 feature engineering
+- Random Forest, Gradient Boosting, Ridge, KNN, TensorFlow 딥러닝 모델 성능 비교
+- MAE를 기준으로 예측 가격 범위 제공
+- Streamlit 기반 웹앱 구현 및 배포
 
-➡ 단일 예측값이 아닌 예측 가격 범위를 제공하여 실제 중고 거래 시장의 가격 변동성을 반영
-
-➡ 여러 머신러닝 및 딥러닝 모델을 비교하며 예측 성능과 모델별 특성을 분석
-
-➡ 사용 모델  
-- Random Forest Regressor  
-- Gradient Boosting Regressor  
-- Ridge Regression  
-- K-Nearest Neighbors Regressor  
-- TensorFlow Deep Learning Model  
-
-➡ 사용 기술  
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow / Keras
+#### Tech Stack
+- Python, Pandas, NumPy
+- Scikit-learn, TensorFlow / Keras
 - Streamlit
-- Matplotlib
 - Git / GitHub
 
 ---
@@ -80,7 +71,7 @@ Python과 인공지능 기술을 기반으로 데이터를 분석하고, 실제 
 
 ### 문제를 직접 정의하고 구현하는 역량
 
-관심 있는 주제를 단순한 아이디어로 남기지 않고, 데이터 수집부터 모델 구현까지 하나의 프로젝트로 구체화하는 데 강점이 있습니다.
+축구 유니폼 거래 시장이라는 개인적 관심사를 데이터 기반 문제로 정의하고, 크롤링부터 전처리, 모델 학습, Streamlit 웹앱 구현까지 직접 수행했습니다.
 
 ### 모델을 비교하며 개선하는 태도
 
@@ -94,12 +85,11 @@ Python과 인공지능 기술을 기반으로 데이터를 분석하고, 실제 
 
 ## Career Direction
 
-앞으로는 Python과 AI 역량을 더 깊이 발전시켜, 데이터를 기반으로 실제 문제를 해결하는 개발자로 성장하고자 합니다.
-
-특히 머신러닝과 딥러닝 모델의 원리를 깊이 이해하고, 이를 웹 서비스나 실제 사용자 중심 애플리케이션으로 연결하는 경험을 지속적으로 쌓아가고자 합니다.
+앞으로는 데이터 수집, 전처리, 모델링, 서비스 구현까지 연결할 수 있는 AI 개발자로 성장하고자 합니다.  
+특히 머신러닝 모델의 성능 개선뿐 아니라, 사용자가 실제로 활용할 수 있는 웹 서비스 형태로 구현하는 역량을 함께 키워가고 있습니다.
 
 ---
 
 ## One Line Introduction
 
-데이터를 통해 문제를 정의하고, Python과 AI 기술로 직접 해결책을 구현해가는 예비 개발자입니다.
+데이터로 문제를 정의하고, Python과 머신러닝으로 해결 과정을 구현하는 개발자를 지향합니다.
