@@ -48,7 +48,7 @@ Python을 기반으로 데이터를 수집·전처리하고, 머신러닝 모델
 
 ## Projects
 
-### 축구 유니폼 가격 예측 모델
+### 축구 유니폼 가격 예측 모델(https://github.com/seunghyeon-hwang/uniform-price-prediction-app)
 
 축구 유니폼 중고 거래 데이터를 수집하여 상품 조건에 따른 예상 거래 가격을 예측하는 머신러닝 기반 웹 애플리케이션입니다.
 
