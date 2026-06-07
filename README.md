@@ -20,6 +20,10 @@ Python을 기반으로 데이터를 수집·전처리하고, 머신러닝 모델
 ### Machine Learning / Deep Learning
 - Scikit-learn
 - TensorFlow / Keras
+- Convolutional Neural Networks (CNN)
+- Image Classification
+- Data Augmentation
+- Binary Classification
 - Random Forest
 - Gradient Boosting
 - Ridge Regression
@@ -29,6 +33,7 @@ Python을 기반으로 데이터를 수집·전처리하고, 머신러닝 모델
 - Streamlit
 - Git / GitHub
 - Web Crawling
+- Google Colab
 
 ---
 
@@ -63,6 +68,24 @@ Python을 기반으로 데이터를 수집·전처리하고, 머신러닝 모델
 - Python, Pandas, NumPy
 - Scikit-learn, TensorFlow / Keras
 - Streamlit
+- Git / GitHub
+
+### [개·고양이 이미지 분류 AI](https://github.com/seunghyeon-hwang/cat-dog-image-classifier)
+
+Kaggle의 Dogs vs Cats 데이터를 활용하여 이미지가 개인지 고양이인지 분류하는 CNN 기반 딥러닝 모델을 구현한 프로젝트입니다.
+
+주요 기능
+- 이미지 데이터 로드 및 전처리 (리사이즈, 정규화)
+- 데이터 증강을 통한 모델 일반화 성능 향상
+- CNN 모델 설계 및 학습
+- Dropout, Early Stopping을 활용한 과적합 방지
+- TensorBoard를 통한 학습 과정 시각화
+
+#### Tech Stack
+- Python, NumPy
+- TensorFlow / Keras
+- Computer Vision (Image Classification, Data Augmentation)
+- Google Colab
 - Git / GitHub
 
 ---
